@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(135deg, #fa54b7, rgb(254, 254, 92),  #fa54b7);
+     
+}
+h1{
+    text-align: center;
+    border-style: solid;
+    border-radius:20px;
+    border-color:rgb(26, 13, 7) ;
+    background-color:  #f9d55f;
+    padding: 5px;
+    text-shadow: 2px 2px rgb(232, 161, 242) ;
+}
+ h2 {
+    border-style: solid;
+    color: #1a1918;
+    border-radius:20px;
+     border-color:rgb(26, 13, 7) ;
+    background-color:   #f9d55f ;
+    text-align: center;
+     padding: 8px;
+       text-shadow: 2px 2px rgb(232, 161, 242) ;
+    width: auto;
+    display: inline;
+}
+dt{
+font-size:20px;
+}
+dd{
+   font-size: 20px; 
+}
+li{
+    font-size: 20px;
+}
